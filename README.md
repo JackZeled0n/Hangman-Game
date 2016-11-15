@@ -1,2 +1,4 @@
 # Hangman-Game
-El juego del ahorcado.
+Juego del ahorcado. Lenguajes de Programación.
+
+
